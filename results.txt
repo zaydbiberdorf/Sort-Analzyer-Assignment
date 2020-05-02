@@ -1,0 +1,41 @@
+SORT ANALYZER RESULTS
+**********************************************************
+BUBBLE SORT - Average Time to Sort Array
+Random Array: 211.841
+Reversed Array: 174.108
+Nearly Sorted Array: 84.195
+Few Unique Array: 84.057
+
+SELECTION SORT - Average Time to Sort Array
+Random Array: 70.782
+Reversed Array: 70.369
+Nearly Sorted Array: 61.968
+Few Unique Array: 61.916
+
+INSERTION SORT - Average Time to Sort Array
+Random Array: 51.837
+Reversed Array: 89.356
+Nearly Sorted Array: 1.604
+Few Unique Array: 1.031
+***********************************************************
+
+
+SORT ANALYZER OBSERVATIONS
+***********************************************************
+What did you find interesting about the results?
+i found it itresting that in the instertion sort it didnt fallow the pattern like the other sort methods. for example the bubble sort had two fairly large numbers that were close for the random array and the reversed array but got smaller for nearly sorted array but in the insetrion array had a larger number for the reverded array than the random array and the nearly sorted array and the few uniquw array had exrealmy short times.
+
+The Bubble Sort times should have shown an improved time for the
+Nearly Sorted and Few Unique arrays.  Explain why...
+it would be esier and fasster for the algorithom to sort data that is already close to being sorted.
+
+The Selection Sort times should have been fairly consistent for 
+all of the data arrays.  Explain why...
+the process should be very similar no matter the type of data given although the times did improve for the nearly sorted and few unique arrays they were still more consistant thent the other methods.
+
+The Insertion Sort times should have been very fast for the
+Nearly Sorted and Few Unique arrays and much worse for the 
+Reversed array.  Explain why...
+for the reversed array it would have to shift data a lot more than the nearly sorted array.
+
+************************************************************
